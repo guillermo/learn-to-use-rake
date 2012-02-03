@@ -10,9 +10,9 @@ The sample Rakefile is included and some files. All tasks should work out of the
 
 # Slides
 
-You can see the slides with ptt program ( gem install ptt )
+You can see the slides with tpp program ( gem install tpp )
 
-    ptt slides.ptt
+    tpp slides.tpp
 
 # Author
 
